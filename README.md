@@ -1,2 +1,3 @@
 # My-Python-Project
-For the Python projects I make 
+
+The python projects I work on
